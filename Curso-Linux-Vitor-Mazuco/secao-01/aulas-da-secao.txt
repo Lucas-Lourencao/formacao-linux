@@ -1,1 +1,10 @@
-Aula 01: 
+Aula 01: Introdução ao curso;
+    Anotações:
+    - Introdução sobre o curso;
+Aula 02: O que é o Linux?;
+    Anotações:
+    - Site Kernel Linux: https://www.kernel.org;
+        -Site com informações sobre todo o histórico de desenvolvimento do Linux;
+Aula 03: Breve História do Linux;
+    Anotações:
+    - Linux foudantion: https://www.linuxfoundation.org;
